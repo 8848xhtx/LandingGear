@@ -1,2 +1,4 @@
 # LandingGear
 Formal simulation，Opengl
+
+   This project analyzed the basic equipment model of the traditional aircraft landing gear control system. First, a primary abstract model of the landing gear control system was established by using EVENT-B language. On this basis, modeling and verification of doors, gears, handles, signal lights, hydraulic pressure, signal lights, electric valves and analog switches were conducted step by step with hierarchical elaboration.  After that, visual simulation modeling of formal model was carried out by Qt and Opengl programming, software logic and user interaction system of landing gear control system was realized by Qt programming, 3D model of landing gear control system was realized by Opengl, and real-time landing gear status was sensed and dynamically updated by model through interprocess communication.  Users can use qt interface for landing gear control system simulation verification.  
