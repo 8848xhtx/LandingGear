@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>x-35_obj.obj</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>image/x-35_obj.obj</file>
+    </qresource>
+</RCC>
